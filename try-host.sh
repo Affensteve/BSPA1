@@ -1,6 +1,7 @@
 #!/bin/bash
 # <Pings given host machine or ipaddress>
-# <Ante Skoric and Timo Quednau>
+# <Ante Skoric>
+# <imo Quednau>
 # <06.10.2019>
 
 # ------------------------------------------------------------
